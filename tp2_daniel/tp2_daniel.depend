@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1601513586 source:c:\users\sabrino\desktop\tp2_daniel\main.c
+	<stdio.h>
+	"employees.h"
+	"menu.h"
+	<string.h>
+	<stdlib.h>
+
+1601514130 c:\users\sabrino\desktop\tp2_daniel\employees.h
+
+1601514593 source:c:\users\sabrino\desktop\tp2_daniel\employees.c
+	<stdio.h>
+	<string.h>
+	"employees.h"
+	<stdlib.h>
+
+1601521336 source:c:\users\sabrino\desktop\tp2_daniel\menu.c
+	<stdio.h>
+	"employees.h"
+	"menu.h"
+	<string.h>
+	<stdlib.h>
+
+1601514211 c:\users\sabrino\desktop\tp2_daniel\menu.h
+
